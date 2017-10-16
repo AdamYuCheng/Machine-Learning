@@ -1,2 +1,5 @@
 # Machine-Learning
-Personal notes in machine learning
+Here are some notes of my personal record and practice in machine field.
+
+## Contents
+To be updated...
