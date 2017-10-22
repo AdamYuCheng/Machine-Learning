@@ -44,6 +44,3 @@
   
 7. 若針對分類較多的String 類的資料  
   可將多項分類整併起來，減少分類的項目  
-
-參考資料：
-Google Cloud Dataprep Documentation	https://cloud.google.com/dataprep/docs/
