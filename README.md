@@ -11,4 +11,7 @@ Here are some notes of my personal record and practice in machine field.
 3. Tidy Data  
   Some notes about tidy data methods  
   
+4. EDA  
+  Summarize the basic exploratory data analysis methods  
+   
 To be updated...
