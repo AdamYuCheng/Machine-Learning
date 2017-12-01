@@ -10,5 +10,8 @@ Here are some notes of my personal record and practice in machine field.
   
 3. Logistic Regression  
   Basic practice how to use logistic regression from sklearn library  
+  
+4. Decision Tree  
+  Basic practice how to use decision tree from sklearn library
    
 To be updated...
