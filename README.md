@@ -13,5 +13,8 @@ Here are some notes of my personal record and practice in machine field.
   
 4. Decision Tree  
   Basic practice how to use decision tree from sklearn library
-   
+  
+5. Clustering  
+  Basic practice how to use clustering from sklearn library  
+  
 To be updated...
