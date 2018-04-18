@@ -16,5 +16,8 @@ Here are some notes of my personal record and practice in machine field.
   
 5. Clustering  
   Basic practice how to use clustering from sklearn library  
-  
+
+6. Taiwan ETF Prediction  
+  Use ridge regression model to predict the ETF price  
+
 To be updated...
