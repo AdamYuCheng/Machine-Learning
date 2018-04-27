@@ -5,8 +5,8 @@ Here are some notes of my personal record and practice in machine field.
 1. Exploratory Data Analysis On Iris Dataset    
   Summarize the basic exploratory data analysis methods  
   
-2. Linear Regression  
-  Training and comparing the basic linear regression model with default setting    
+2. Linear Model For Regression   
+  Training and comparing different linear regression models' performance and some strategies of finding the best regression model.   
   
 3. Logistic Regression  
   Basic practice how to use logistic regression from sklearn library  
