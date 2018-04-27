@@ -6,7 +6,7 @@ Here are some notes of my personal record and practice in machine field.
   Summarize the basic exploratory data analysis methods  
   
 2. Linear Model For Regression   
-  Training and comparing different linear regression models' performance and some strategies of finding the best regression model.   
+  Training and comparing different linear regression models' performance and some strategies of finding the best regression model   
   
 3. Logistic Regression  
   Basic practice how to use logistic regression from sklearn library  
