@@ -18,6 +18,6 @@ Here are some notes of my personal record and practice in machine field.
   Basic practice how to use clustering from sklearn library  
 
 6. Taiwan ETF Prediction  
-  Use ridge regression model to predict the ETF price  
+  Use gradient boosting regressor model to predict the ETF price  
 
 To be updated...
