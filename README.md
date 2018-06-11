@@ -19,5 +19,11 @@ Here are some notes of my personal record and practice in machine field.
 
 6. Taiwan ETF Prediction  
   Use gradient boosting regressor model to predict the ETF price  
+  
+7. Tensorflow notes  
+  Some notes and example in deep learning with tensorflow  
+  
+8. Kaggle House Prediction  
+  The code for kaggle 'House Prices: Advanced Regression Techniques'  
 
 To be updated...
