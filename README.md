@@ -9,13 +9,13 @@ Here are some notes of my personal record and practice in machine field.
   Training and comparing different linear regression models' performance and some strategies of finding the best regression model   
   
 3. Logistic Regression  
-  Basic practice how to use logistic regression from sklearn library  
+  Basically show how to use logistic regression from sklearn library  
   
 4. Decision Tree  
-  Basic practice how to use decision tree from sklearn library
+  Basically show how to use decision tree from sklearn library
   
 5. Clustering  
-  Basic practice how to use clustering from sklearn library  
+  Basically show how to use clustering from sklearn library  
 
 6. Taiwan ETF Prediction  
   Use gradient boosting regressor model to predict the ETF price  
@@ -25,5 +25,8 @@ Here are some notes of my personal record and practice in machine field.
   
 8. Kaggle House Prediction  
   The code for kaggle 'House Prices: Advanced Regression Techniques'  
+  
+9. Compare Classification Model Performance  
+  Compare the training time and f1 score between 5 basic classifcation model  
 
 To be updated...
