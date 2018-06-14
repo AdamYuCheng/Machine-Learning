@@ -1,5 +1,5 @@
 # Machine-Learning
-Here are some notes of my personal record and practice in machine field.
+Here are some notes of my personal record and practice in machine learning field.
 
 ## Contents
 1. Exploratory Data Analysis On Iris Dataset    
