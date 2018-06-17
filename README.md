@@ -20,8 +20,26 @@ Here are some notes of my personal record and practice in machine learning field
 ## In My Toolbox
 Collect some template for machine learning and deep learning.  
 
+### For Machine Learning 
 1. Logistic Regression - use logistic regression to classify data 
 2. Decision Tree - use decision tree to classigy data
 3. K means - use k means method to cluster the data
+4. K Nearest Neighbors - classification data
+5. Support Vector Machine - classification data
+6. One class SVM(Anomaly detection) - samle of anomaly detection
+7. Linear regression model - regression model with tunning
+
+### List For Deep Learning
+#### Keras
+1. CNN for fruit recognition
+2. CNN for Cifar10 classification
+3. RNN for classify trash SMS
+4. LSTM for text binary analysis
+
+#### Tensorflow
+1. DNN Regressor
+2. Neural Network Classification
+3. DNN Classifier
+4. ResNet Transfer Learning
 
 To be updated...
