@@ -16,7 +16,7 @@ The pre-define template could accelerate the speed to make machine learning and 
 ### Keras
 1. CNN 訓練水果辨識(訓練Channel = 1 (灰階)的圖片)
 2. CNN 訓練Cifar10(訓練Channel = 3 (彩色)的圖片)
-3. RMM 訓練垃圾SMS範例
+3. RNN 訓練垃圾SMS範例
 4. LSTM 做語情分析範例
 
 ### Tensorflow
