@@ -24,3 +24,4 @@ The pre-define template could accelerate the speed to make machine learning and 
 2. NN Linear Classifier
 3. Premade DNN Classifier
 4. ResNet50 Transfer learning
+5. Linear Regression Sample

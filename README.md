@@ -41,5 +41,6 @@ Collect some template for machine learning and deep learning.
 2. Neural Network Classification
 3. DNN Classifier
 4. ResNet Transfer Learning
+5. Linear Regression Sample
 
 To be updated...
