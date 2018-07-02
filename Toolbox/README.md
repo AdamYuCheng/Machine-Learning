@@ -25,3 +25,14 @@ The pre-define template could accelerate the speed to make machine learning and 
 3. Premade DNN Classifier
 4. ResNet50 Transfer learning
 5. Linear Regression Sample
+
+### Pytorch
+1. Cifar10_CNN_turorial
+2. Custom NN function
+3. Dynamic Graph & Control Flow in NN
+4. Pytorch NN model
+5. Neural Network Tutorial
+6. Transfer_learning_Tutorial
+
+### FastAI
+1. FastAI CNN Transfer Learning
