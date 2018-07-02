@@ -33,6 +33,7 @@ The pre-define template could accelerate the speed to make machine learning and 
 4. Pytorch NN model
 5. Neural Network Tutorial
 6. Transfer_learning_Tutorial
+7. Word Classification Example
 
 ### FastAI
 1. FastAI CNN Transfer Learning
