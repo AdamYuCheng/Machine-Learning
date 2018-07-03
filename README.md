@@ -16,6 +16,9 @@ Here are some notes of my personal record and practice in machine learning field
     
 5. Compare Classification Model Performance  
     Compare the training time and f1 score between 5 basic classifcation model  
+    
+6. Image Classification  
+    Use fast ai library to classify the where am I dataset
 
 ## In My Toolbox
 Collect some template for machine learning and deep learning.  
@@ -42,5 +45,21 @@ Collect some template for machine learning and deep learning.
 3. DNN Classifier
 4. ResNet Transfer Learning
 5. Linear Regression Sample
+
+#### Pytorch
+1. Cifar10_CNN_turorial
+2. Custom NN function
+3. Dynamic Graph & Control Flow in NN
+4. Pytorch NN model
+5. Neural Network Tutorial
+6. Transfer_learning_Tutorial
+7. Word Classification Example
+
+#### FastAI
+1. FastAI CNN Transfer Learning
+
+#### Turicreate
+1. Linear regression
+2. Recommender system sample
 
 To be updated...
