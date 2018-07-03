@@ -37,3 +37,7 @@ The pre-define template could accelerate the speed to make machine learning and 
 
 ### FastAI
 1. FastAI CNN Transfer Learning
+
+### Turicreate
+1. Linear regression
+2. Recommender system sample
