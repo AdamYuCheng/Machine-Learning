@@ -34,6 +34,8 @@ The pre-define template could accelerate the speed to make machine learning and 
 5. Neural Network Tutorial
 6. Transfer_learning_Tutorial
 7. Word Classification Example
+8. N-Gram Word Embedding
+9. Make Custom Dataset
 
 ### FastAI
 1. FastAI CNN Transfer Learning
