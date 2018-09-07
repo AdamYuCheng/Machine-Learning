@@ -29,7 +29,7 @@ Collect some template for machine learning and deep learning.
 3. K means - use k means method to cluster the data
 4. K Nearest Neighbors - classification data
 5. Support Vector Machine - classification data
-6. One class SVM(Anomaly detection) - samle of anomaly detection
+6. One class SVM(Anomaly detection) - sample of anomaly detection
 7. Linear regression model - regression model with tunning
 
 ### List For Deep Learning
