@@ -61,5 +61,3 @@ Collect some template for machine learning and deep learning.
 #### Turicreate
 1. Linear regression
 2. Recommender system sample
-
-To be updated...
